@@ -1,0 +1,191 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAASX///iQ\u003d",
+        "filename": "DeviceSettings/res/values-hu/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-04-14T16:31:29Z",
+      "side": 1,
+      "message": "indentations\nuse 4 spaces, no tabs",
+      "revId": "21f8fdfbebd5d93aadda96cade5fb952009743d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASX///iw\u003d",
+        "filename": "DeviceSettings/res/values-hu/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-04-14T16:31:29Z",
+      "side": 1,
+      "message": "do not translate",
+      "revId": "21f8fdfbebd5d93aadda96cade5fb952009743d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASX///iU\u003d",
+        "filename": "DeviceSettings/res/values-hu/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-04-14T16:31:29Z",
+      "side": 1,
+      "message": "indentations",
+      "revId": "21f8fdfbebd5d93aadda96cade5fb952009743d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASX///is\u003d",
+        "filename": "DeviceSettings/res/values-hu/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-04-14T16:31:29Z",
+      "side": 1,
+      "message": "do not translate",
+      "revId": "21f8fdfbebd5d93aadda96cade5fb952009743d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASX///io\u003d",
+        "filename": "DeviceSettings/res/values-hu/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-04-14T16:31:29Z",
+      "side": 1,
+      "message": "do not translate",
+      "revId": "21f8fdfbebd5d93aadda96cade5fb952009743d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASX///ik\u003d",
+        "filename": "DeviceSettings/res/values-hu/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-04-14T16:31:29Z",
+      "side": 1,
+      "message": "do not translate",
+      "revId": "21f8fdfbebd5d93aadda96cade5fb952009743d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASX///ig\u003d",
+        "filename": "DeviceSettings/res/values-hu/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-04-14T16:31:29Z",
+      "side": 1,
+      "message": "do not translate",
+      "revId": "21f8fdfbebd5d93aadda96cade5fb952009743d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASX///ic\u003d",
+        "filename": "DeviceSettings/res/values-hu/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-04-14T16:31:29Z",
+      "side": 1,
+      "message": "do not translate",
+      "revId": "21f8fdfbebd5d93aadda96cade5fb952009743d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASX///iY\u003d",
+        "filename": "DeviceSettings/res/values-hu/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-04-14T16:31:29Z",
+      "side": 1,
+      "message": "do not translate, \nindentations",
+      "revId": "21f8fdfbebd5d93aadda96cade5fb952009743d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASX///iM\u003d",
+        "filename": "DeviceSettings/res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-04-14T16:31:29Z",
+      "side": 1,
+      "message": "remove whitespaces",
+      "revId": "21f8fdfbebd5d93aadda96cade5fb952009743d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASX///iI\u003d",
+        "filename": "DeviceSettings/res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-04-14T16:31:29Z",
+      "side": 1,
+      "message": "remove whitespaces",
+      "revId": "21f8fdfbebd5d93aadda96cade5fb952009743d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

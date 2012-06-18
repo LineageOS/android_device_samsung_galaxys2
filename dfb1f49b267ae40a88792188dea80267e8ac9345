@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//9mI\u003d",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 2793
+      },
+      "writtenOn": "2012-06-18T21:32:30Z",
+      "side": 1,
+      "message": "Why are you reverting a change that you +1ed?",
+      "revId": "dfb1f49b267ae40a88792188dea80267e8ac9345",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

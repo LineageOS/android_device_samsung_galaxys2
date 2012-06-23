@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//8mE\u003d",
+        "filename": "DeviceSettings/res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-23T23:02:04Z",
+      "side": 1,
+      "message": "calibratie veranderen in kalibratie",
+      "revId": "60803ab5ca04eb10ef1396b92797b35e85bc7b38",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8l8\u003d",
+        "filename": "DeviceSettings/res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-23T23:02:04Z",
+      "side": 1,
+      "message": "niet vertaald:\n\nPlaats je telefoon op een vlakke ondergrond en druk hier om te kalibreren",
+      "revId": "60803ab5ca04eb10ef1396b92797b35e85bc7b38",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

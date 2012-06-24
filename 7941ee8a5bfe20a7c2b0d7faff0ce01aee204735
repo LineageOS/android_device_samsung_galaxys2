@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//8k0\u003d",
+        "filename": "DeviceSettings/res/values-nl/arrays.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-24T00:12:13Z",
+      "side": 1,
+      "message": "Veel overbodige tabs.",
+      "revId": "7941ee8a5bfe20a7c2b0d7faff0ce01aee204735",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

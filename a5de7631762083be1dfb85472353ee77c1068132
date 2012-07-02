@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//67k\u003d",
+        "filename": "DeviceSettings/res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2012-07-02T15:26:21Z",
+      "side": 1,
+      "message": "Pomogite pravil\u0027no perevesti ety stroky. Kakoj eto rezhim?",
+      "revId": "a5de7631762083be1dfb85472353ee77c1068132",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

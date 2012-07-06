@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//6IA\u003d",
+        "filename": "overlay/packages/apps/Phone/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2793
+      },
+      "writtenOn": "2012-07-06T06:19:22Z",
+      "side": 0,
+      "message": "Is there a reason you removed this?",
+      "revId": "495922916459f00b21d3bf010baa49821c14c4c8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

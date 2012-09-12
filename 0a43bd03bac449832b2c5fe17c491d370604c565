@@ -16,6 +16,24 @@
       "revId": "0a43bd03bac449832b2c5fe17c491d370604c565",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAXX//+iA\u003d",
+        "filename": "DeviceSettings/res/values-nl/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-09-12T21:28:54Z",
+      "side": 1,
+      "message": "Nee, VT is goed, al heb ik geen idee waar het voor staat....\n\nvv",
+      "parentUuid": "AAAAXX//+lo\u003d",
+      "revId": "0a43bd03bac449832b2c5fe17c491d370604c565",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }

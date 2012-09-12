@@ -16,6 +16,24 @@
       "revId": "9f1f9fa5c578335c9d2e02b6b53bbb2cde0bf5e7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAXX//+f8\u003d",
+        "filename": "DeviceSettings/res/values-nl/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-09-12T22:31:50Z",
+      "side": 1,
+      "message": "Wikipedia:\n\nhttp://en.wikipedia.org/wiki/VT\n\u003e\u003e In computing and internet\n\u003e\u003e\u003e\u003e Video terminal\n\u003e\u003e\u003e\u003e\u003e\u003e Computer terminal",
+      "parentUuid": "AAAAXX//+hI\u003d",
+      "revId": "9f1f9fa5c578335c9d2e02b6b53bbb2cde0bf5e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAXX//+bU\u003d",
+        "filename": "DeviceSettings/res/values-nl/arrays.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-09-13T03:45:32Z",
+      "side": 1,
+      "message": "Sorry, maar ik zie niet in waarom we dit zouden moeten veranderen. Wie zegt dat Virtual Terminal de juiste vertaling van VT is?\nHeeft Virtual Terminal wel iets van doen met mDNIe scenario\u0027s?\nIk wil graag wat meer bewijs dan een eventuele wikipedia afkorting....",
+      "revId": "7b9febb8de1ff7f8c0aaa654d1e1d9f084e3f754",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

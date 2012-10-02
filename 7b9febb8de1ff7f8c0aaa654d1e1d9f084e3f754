@@ -16,6 +16,24 @@
       "revId": "7b9febb8de1ff7f8c0aaa654d1e1d9f084e3f754",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///GI\u003d",
+        "filename": "DeviceSettings/res/values-nl/arrays.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-02T05:22:00Z",
+      "side": 1,
+      "message": "Als dit weer op VT wordt gezet, kan deze gemerged worden.",
+      "parentUuid": "AAAAXX//+bU\u003d",
+      "revId": "7b9febb8de1ff7f8c0aaa654d1e1d9f084e3f754",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
